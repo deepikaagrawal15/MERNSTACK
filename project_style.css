@@ -1,0 +1,14 @@
+body{
+    background-color: olive;
+    /* color: gray; */
+}
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px; 
+}
+.s1{
+    text-align: center;
+    font-weight: bold;
+}
